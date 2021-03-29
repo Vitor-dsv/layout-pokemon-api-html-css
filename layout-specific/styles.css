@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700|Nunito:600');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    background: linear-gradient(to bottom right, #024, #402);
+}
+
+.row {
+    margin-right: 0px;
+}
+
+.card-pokemon {
+    margin-top: 40px;
+    border-radius: 20px;
+    width: 18rem;
+}
+
+.group-hability {
+    text-align: center;
+}
+
+img {
+    width: 240px;
+    height: 320px;
+}
+
+.title-card {
+    font-family: Cinzel Decorative;
+    font-size: 30px;
+    text-align: center;
+}
